@@ -2,7 +2,7 @@
 - Rest API to perform CRUD operations on movies.
 - Supported Operations : GetAll, GetOne, Add, Update, Delete
 
-## Json for POST/PUT  (http://localhost:8080/movies   || http://localhost:8080/movies/{movieName}
+#### Json for POST/PUT  (http://localhost:8080/movies   || http://localhost:8080/movies/{movieName}
 - [
     {
         "name": "The Matrix",
